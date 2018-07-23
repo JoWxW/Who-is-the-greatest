@@ -1,3 +1,4 @@
+//wrong architechture, wrong organisation
 pragma solidity ^0.4.19;
 contract WhoIsWinner{
 
